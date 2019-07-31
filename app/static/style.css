@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://cdn-prod.medicalnewstoday.com/content/images/articles/269/269143/popular-healthy-foods-laid-out-on-white-background.jpg");
+    z-index: -2;
+     max-width:100%;
+    height:auto;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    
+}
+
+.input-field {
+    color: black !important;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    black !important;
+    font-weight: bold;
+     opacity: 1 !important;
+}
+input {
+    color: black !important;
+}
+
+p {
+    font-family: Times;
+    font-size: 20px;
+}
+
+input[type=text] {
+    background-color: #3CBC8D;
+    color: black;
+    font-weight: bold;
+    
+    
+}
